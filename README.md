@@ -1,1 +1,1 @@
-# mf-hosts
+# mf-remotes
